@@ -6,7 +6,7 @@ public class Driver {
 		
 		Counter counter = new Counter();
 		
-		System.out.println("Count Now:" + counter.getCount());
+		System.out.println("Cofgfunt Now:" + counter.getCount());
 		
 		counter.increment();
 		
